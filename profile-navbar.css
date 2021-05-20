@@ -1,0 +1,21 @@
+.profile-navbar-col1 {
+    width: 200px;
+    margin-right: 10px;
+    float: left;
+    height: 100%;
+}
+
+.profile-navbar-col2 {
+    width: 60px;
+    margin-right: 10px;
+    float: left;
+    height: 100%;
+}
+
+.profile-navbar-col3 {
+    width: 160px;
+    float: right;
+    height: 100%;
+    position: relative;
+}
+

@@ -1,0 +1,45 @@
+.trends-wrapper {
+    height: 450px;
+    width: auto;
+    overflow: hidden;
+    background-color: #fafafa;
+    border-radius: 3px;
+}
+
+.trends-section {
+    width: 100%;
+    height: 50px;
+}
+
+.trends-section-hashtag {
+    width: 100%;
+    height: 50px;
+}
+
+.trends-for-you {
+    font-size: 1.2em;
+    font-weight: 600;
+    color: black;
+    margin-left: 5px;
+}
+
+.hastag-trend {
+    font-size: 1.0em;
+    display: block;
+    color: #2598FF;
+    font-weight: 600;
+    margin-left: 10px;
+}
+
+.reference-tweets {
+    font-size: 0.8em;
+    display: block;
+    color: grey;
+    font-weight: 300;
+    margin-left: 10px;
+}
+
+.trends-section-hashtag span:hover{
+    cursor: pointer;
+    color: #2598FF;
+}
